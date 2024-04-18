@@ -1,14 +1,5 @@
-  <h3>Hello, It's Me</h3>
-        <h1>Vimukthi Dilshan </h1>
-        <h3>And I'm a <span class="multiple-text"></span></h3>
-        <script>const typed = new Typed('.multiple-text',{
-    strings: ['Frontend Developer', 'Softwere Developer', 'Web Designer'],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
-    loop: true
- });
-</script>
+<h1 align="center">Hi 👋, I'm Vimukthi Dilshan</h1>
+<h3 align="center">I'm a software engineering undergraduate in Sri Lanka. I am interested in Web Development and Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgvdilshan&label=Profile%20views&color=0e75b6&style=flat" alt="dgvdilshan" /> </p>
 
