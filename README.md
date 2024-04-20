@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vimukthi Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Vimukthi Dilshan </h1>
 <h3 align="center">I'm a software engineering undergraduate in Sri Lanka. I am interested in Web Development and Software Engineering.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dgvdilshan&label=Profile%20views&color=0e75b6&style=flat" alt="dgvdilshan" /> </p>
