@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **java project**
 
-- 🌱 I’m currently learning **React , Java , python**
+- 🌱 I’m currently learning **React , Java , python ,Flutter**
 
 - 👨‍💻 All of my projects are available at [https://mycurriculum123.000webhostapp.com/](https://mycurriculum123.000webhostapp.com/)
 
