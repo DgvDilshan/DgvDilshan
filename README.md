@@ -27,13 +27,13 @@
 
 ---
 
-### 🛠️ Languages and Tools
+
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,java,php,python,flutter,dart,firebase,mysql,c,cpp,git,figma,arduino&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,java,php,python,flutter,dart,firebase,mysql,c,cpp,git,figma,arduino&perline=6" />
   </a>
 </p>
 ---
