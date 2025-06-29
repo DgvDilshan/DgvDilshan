@@ -42,6 +42,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgvdilshan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Vimukthi's GitHub Stats" />
   <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgvdilshan&theme=tokyonight&hide_border=true" alt="Vimukthi's GitHub Streak" />
+  <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgvdilshan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
