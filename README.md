@@ -27,8 +27,6 @@
 
 ---
 
-
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -36,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=react,js,bootstrap,java,php,python,flutter,dart,firebase,mysql,c,cpp,git,figma,arduino&perline=6" />
   </a>
 </p>
+
 ---
 
 ### 📊 My GitHub Stats
