@@ -65,26 +65,36 @@
 
 <!-- ======================== ANIMATED CURRENT MISSION ======================== -->
 
+<!-- ======================== UNIQUE INTERACTIVE MISSION ======================== -->
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=🧠+Current+Mission" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0072FF&height=60&text=🧠%20Current%20Mission&fontSize=25&fontColor=ffffff&animation=fadeIn" />
 </h2>
 
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=🌱+AI-Powered+Agriculture+Systems;📱+Scalable+Flutter+Applications;🌐+Clean+Architecture+Backend+Systems;🔐+Secure+%26+Optimized+APIs" />
+  <img src="https://img.shields.io/badge/🌱_AI--Powered_Agriculture_Systems-00F7FF?style=for-the-badge&logo=leaflet&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📱_Scalable_Flutter_Applications-00F7FF?style=for-the-badge&logo=flutter&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Clean_Architecture_Backend_Systems-00F7FF?style=for-the-badge&logo=code&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔐_Secure_&_Optimized_APIs-00F7FF?style=for-the-badge&logo=shield&logoColor=black" />
 </p>
 
 <br>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=💬+Code.+Create.+Innovate.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=💬+Code.+Create.+Innovate.+Repeat." />
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0072FF&height=3&section=footer"/>
-</p>>
-
-<h3 align="center">💬 “Code. Create. Innovate. Repeat.”</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=footer&animation=fadeIn"/>
 </p>
