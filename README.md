@@ -83,6 +83,14 @@
 
 <br>
 
+<!-- ======================== FULL CONTRIBUTION CALENDAR ======================== -->
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dgvdilshan&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/dgvdilshan" alt="Vimukthi's Github Chart" width="100%"/>
 </p>
